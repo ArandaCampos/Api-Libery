@@ -2,7 +2,7 @@
 
 ![Badge de licença](http://img.shields.io/static/v1?label=LICENÇA&message=GNU&color=sucess&style=for-the-badge)   ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=sucess&style=for-the-badge)   ![Badge versionamento](http://img.shields.io/static/v1?label=VERSAO&message=1.0&color=sucess&style=for-the-badge)
 
-&emsp;O projeto criar uma forma prática e simples de controlar um estoque de livros. Permitindo criação, alteração, exclusão e consulta de dados.
+&emsp;O projeto criar uma forma prática e simples de controlar um estoque de livros. Permitindo criar, alterar, excluir e consultar dados.
 
 ## Modo de usar
 
