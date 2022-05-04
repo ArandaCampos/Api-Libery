@@ -11,16 +11,15 @@
     
 ![pagina-principal-api-libary](https://user-images.githubusercontent.com/87876734/166554139-f0d5c212-cebb-4118-8954-4cbe47401ec9.png)
 
-
-    # Lista de livros cadastrados
-    https://localhost:8000/api-auth/books
-    
-![lista-api-libary](https://user-images.githubusercontent.com/87876734/166554175-9e94ea9b-7dd0-4f94-bfdf-061648f564dc.png)
-
     # Inserir novos livros
     https://localhost:8000/api-auth/books
 
 ![inserir-api-libary](https://user-images.githubusercontent.com/87876734/166554156-c4df5347-f312-476c-9da1-add938a8e821.png)
+    
+    # Lista de livros cadastrados
+    https://localhost:8000/api-auth/books
+    
+![lista-api-libary](https://user-images.githubusercontent.com/87876734/166554175-9e94ea9b-7dd0-4f94-bfdf-061648f564dc.png)
 
     # Editar, Remover, Alterar e Visualizar um livro específico cadastrado através do id
     https://localhost:8000/api-auth/books/<id>
