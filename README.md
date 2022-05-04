@@ -40,20 +40,20 @@
 ## Instalação
 
     # Clonar o repositório
-    $ git clone https://github.com/ArandaCampos/Api-Libery.git
+    >> git clone https://github.com/ArandaCampos/Api-Libery.git
 
     # Entrar no diretório
-    $ cd Api-Libery
+    >> cd Api-Libery
 
     # Criar o ambiente virtual
-    $ virtualenv .
-    $ source bin/activate
+    >> virtualenv .
+    >> source bin/activate
 
     # Instalar as dependências
-    (Api-Libary) $ pip install -r requirements.txt
+    (Api-Libary) >> pip install -r requirements.txt
     
     # Habilitar o servidor
-    (Api-Libary) $ python manage.py runserver
+    (Api-Libary) >> python manage.py runserver
     
     # Abra o navegador de sua preferência e digite localhost:8000/api-auth/
 
