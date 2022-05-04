@@ -35,6 +35,7 @@
 ## Pré-requisitos
 
 - Python3
+- Virtualenv
 
 ## Instalação
 
